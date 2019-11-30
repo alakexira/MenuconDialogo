@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/opcion_dialogo"
+            android:title="Diálogo">
+
+            <menu>
+
+                <item
+                    android:id="@+id/opcion_login"
+                    android:title="Login"/>
+                <item
+                    android:id="@+id/opcion_registrar"
+                    android:title="Registrar"/>
+
+            </menu>
+
+        </item>
+
+</menu>

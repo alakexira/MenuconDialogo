@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuconDialogo</string>
+    <string name="usuario">ingresar usuario:</string>
+    <string name="contraseña">ingresar contraseña:</string>
+    <string name="btn_aut">AUTENTICAR</string>
+    <string name="btn_reg">REGISTRAR</string>
+</resources>
